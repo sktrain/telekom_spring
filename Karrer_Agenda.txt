@@ -1,0 +1,31 @@
+1.Tag
+	- Technik
+	- Einführung Spring, Motivation
+	- Spring als IOC-Container
+	- XML -Konfiguration
+	- Annotation-Based Konfiguration
+
+2. Tag  
+        - "
+	- statische Erzeugungsmethoden
+	- Java-Based Konfiguration
+	
+3. Tag  - Wiederholung: Context und Dependency-Injection
+	- Umstellung der Mitarbeiterverwaltung auf Nutzung von Spring
+		- 1.Schritt: Java-Konfiguration
+		- 2.Schritt: Refactoring:statische Elemente eliminieren
+		- 3.Schritt: Property-Support von Spring nutzen
+	
+
+4. Tag  - AOP (Aspect Oriented Programming)
+		- sprich Proxy
+		- Advices und Pointcut-Expressions
+		- Beispiele
+		- Übung
+	- Spring-Boot näher betrachtet
+		- was bedeutet @SpringBootApplication
+	- Testen mit Spring
+		- Profiles
+		- Integrationstests
+	- Optional: Oberserver/Observable-Pattern durch Spring-Context
+
